@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aeab0522-fd63-4342-88f5-cd7d24eb82ce" name="serveurnicoant" url="http://192.168.1.48">
+        <fileTransfer host="192.168.1.48" port="22" rootFolder="/home/messagerie" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
